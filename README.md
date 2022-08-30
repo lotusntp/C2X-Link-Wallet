@@ -20,6 +20,4 @@ Enabling USB-Debugging.
 - Auto link wallet with ID Hive.
 - Auto delete wallet after link wallet complete.
 
-<div align="center">
-  <img src="https://res.cloudinary.com/dtxsiexns/image/upload/v1661854345/imgonline-com-ua-resize-C362ZbApHKFaHX_mtxose.jpg" alt=""/>
-</div>
+
